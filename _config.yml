@@ -1,11 +1,11 @@
 # Site settings
-author: Shahwar Spall
-title: 
+author: Shahwar
+title: Explore Top Companies' opportunity
 header-img: img/home-bg.png
 email: shevy.spall@gmail.com
-copyright_name: Shahwar Spall
+copyright_name: Shahwar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  This is design to explore about the hiring company's background.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shahwarspall
